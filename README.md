@@ -29,6 +29,14 @@ Speed: Speed of serial connection.
 Mode: Mode for SerialBox to operate in ('r' for read and 'w' for write).
 ```
 
+## Installing
+
+### Windows
+
+1. Download from GitHub releases ([Link](https://github.com/LeerVR/SerialBox/releases/))
+2. Unzip file
+3. Add to Path (Optional)
+
 ## Building
 
 Setup prerequisites and follow platform specific building instructions.
