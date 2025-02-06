@@ -1,0 +1,1 @@
+g++ ../../../Builds/Apps/SerialBox/SerialBoxMainLogo.opc ../../../Apps/SerialBox/src/SerialBox.cpp -I../../../Lib/Global/ceserial/ -o ../../../Builds/Apps/SerialBox/serialbox.exe -std=c++11

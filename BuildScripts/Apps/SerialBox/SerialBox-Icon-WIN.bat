@@ -1,0 +1,1 @@
+windres ../../../Icons/SerialBoxMainLogo/SerialBoxMainLogo.rc ../../../Builds/Apps/SerialBox/SerialBoxMainLogo.opc
